@@ -1,3 +1,4 @@
+Changes
 LICENSE
 MANIFEST
 META.yml
@@ -8,3 +9,4 @@ dist.ini
 lib/Acme/eng2kor.pm
 t/00.load.t
 t/01app.t
+weaver.ini

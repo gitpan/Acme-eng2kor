@@ -78,13 +78,15 @@ __PACKAGE__->meta->make_immutable;
 __END__
 =pod
 
+=encoding utf-8
+
 =head1 NAME
 
 Acme::eng2kor - English to Korean Translator
 
 =head1 VERSION
 
-version 0.0.1
+version v0.0.2
 
 =head1 SYNOPSIS
 
@@ -99,8 +101,6 @@ version 0.0.1
 =head1 DESCRIPTION
 
 Yet Another Translator
-
-=encoding utf-8
 
 =head1 METHODS
 

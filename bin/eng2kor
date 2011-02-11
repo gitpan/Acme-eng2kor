@@ -42,13 +42,15 @@ for my $word (@ARGV) {
 __END__
 =pod
 
+=encoding utf-8
+
 =head1 NAME
 
 eng2kor - App::eng2kor CLI
 
 =head1 VERSION
 
-version 0.0.1
+version v0.0.2
 
 =head1 SYNOPSIS
 
@@ -77,8 +79,6 @@ version 0.0.1
 	### add below line to your .vimrc
 	set keywordprg=eng2kor                                              # type 'Shift + k' on a word what you find.
 	map <C-e> :!eng2kor                                                 # type 'Ctrl + e'
-
-=encoding utf-8
 
 =head1 SEE ALSO
 
